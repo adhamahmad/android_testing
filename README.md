@@ -9,6 +9,8 @@ Introduction
 TO-DO Notes is an app where you to write down tasks to complete. The app displays them in a list.
 You can then mark them as completed or not, filter them and delete them.
 
+I wrote the tests only and not the whole app code.
+
 ![App main screen, screenshot](screenshot.png)
 
 This codelab has four branches, representing different code states:
